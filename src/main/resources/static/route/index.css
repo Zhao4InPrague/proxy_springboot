@@ -1,0 +1,13 @@
+.ant-spin-container .ant-table-small .ant-table-content .ant-table-body table{
+    padding: 0;
+}
+
+.ant-table-small>.ant-table-content>.ant-table-body{
+    margin: 0;
+}
+#root {
+    height: 100%
+}
+.ant-tabs .ant-tabs-left-bar .ant-tabs-tab {
+    text-align: left;
+}
